@@ -1,0 +1,17 @@
+{
+    "bot": {
+        "id": 1606882976,
+        "is_bot": true,
+        "first_name": "mySendApk",
+        "username": "mySendApk_bot",
+        "can_join_groups": true,
+        "can_read_all_group_messages": true,
+        "supports_inline_queries": false
+    },
+    "user": {
+        "id": -583786881,
+        "first_name": "Vyacheslav",
+        "last_name": "Biryukov",
+        "username": "Chrom23105"
+    }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "telega-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index.js",
+    "install": "node ./src/install.js",
+    "sendFile": "node ./src/sendFile.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-telegram-bot-api": "^0.51.0",
+    "tdl": "^7.0.0",
+    "tdl-tdlib-addon": "^1.0.0",
+    "tg-resolve": "^1.3.1"
+  },
+  "devDependencies": {
+    "tdlib-types": "^0.1001007.1"
+  }
+}
